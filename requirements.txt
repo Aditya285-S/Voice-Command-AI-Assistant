@@ -1,0 +1,5 @@
+googletrans==4.0.0rc1
+playsound==1.3.0
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
